@@ -12,4 +12,4 @@ markdown_extensions:
 
 nav:
   - Home: README.md
-  - Help: help.md
+  - Schematics: schematics/
