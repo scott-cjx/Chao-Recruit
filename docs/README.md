@@ -20,6 +20,6 @@ The purpose of this board is to be used as a node in part of a larger network th
 
 ## Showcase
 
-![render](./render/Chao%20Recruit-top.png)
+![render](./render/ChaoRecruit-top.png)
 ![real img](./img/chao-recruit-irl.png)
 

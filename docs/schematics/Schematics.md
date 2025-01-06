@@ -1,7 +1,7 @@
-![img](./Chao%20Recruit.svg)
-![img](./Chao%20Recruit-HMI.svg)
-![img](./Chao%20Recruit-HMI-USB1.svg)
+![img](./ChaoRecruit.svg)
+![img](./ChaoRecruit-HMI.svg)
+![img](./ChaoRecruit-HMI-USB1.svg)
 
 
 ## Schematics Diagram
-<a href="./docs/schematics/Chao Recruit.pdf">Download</a>
+<a href="./docs/schematics/ChaoRecruit.pdf">Download</a>
