@@ -4,4 +4,4 @@
 
 
 ## Schematics Diagram
-<a href="./docs/schematics/ChaoRecruit.pdf">Download</a>
+<a href="./ChaoRecruit.pdf">Download</a>
