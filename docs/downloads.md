@@ -1,5 +1,7 @@
+# Downloads
 
-## Schematics Diagram
-<a href="./ChaoRecruit.pdf">Download</a>
+### 3D Model
+<a href="./ChaoRecruit.step">Download</a>
 
-## Citation
+### Technical Documentation
+<a href="./ChaoRecruit-TechDoc.pdf">Download</a>

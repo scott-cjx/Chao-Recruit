@@ -1,6 +1,6 @@
 # Chao Recruit
 
-This is a PCB that was designed by Scott-CJX for Nanyang Technological University's (NTU's) Nanyang Venture Formula (NVF) Racing team.
+This is a PCB that was designed by `Scott-CJX` for Nanyang Technological University's (NTU's) Nanyang Venture Formula (NVF) Racing team.
 
 
 ## Overview

@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: Chao Recruit
+message: >-
+  If you use this document, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Scott
+    family-names: Cheng
+    email: scottcjx.w@gmail.com
+    affiliation: Nanyang Technological University
+    orcid: 'https://orcid.org/0009-0007-3541-443X'
+identifiers:
+  - type: url
+    value: 'https://github.com/scott-cjx/Chao-Recruit'
+repository-code: 'https://github.com/scott-cjx/Chao-Recruit'
+url: 'https://scott-cjx.github.io/Chao-Recruit/'
+abstract: >-
+  This is a PCB that was designed for Nanyang Technological
+  University's (NTU's) Nanyang Venture Formula (NVF) Racing
+  team.
+license: CERN-OHL-S-2.0
+version: '1.0'
+date-released: '2025-01-07'
